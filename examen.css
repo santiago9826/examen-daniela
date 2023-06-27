@@ -1,0 +1,89 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: bisque;
+}
+
+.cont1 {
+
+    display: flex;
+}
+
+.img1 {
+    margin-top: 8px;
+    height: 40px;
+}
+
+.learn {
+    margin-left: 19%;
+}
+
+.sell {
+    margin-left: 90px;
+}
+
+.market {
+    margin-left: 90px;
+}
+
+.manage {
+    margin-left: 90px;
+}
+
+.log {
+    margin-left: 90px;
+}
+
+.pri {
+    margin-left: 80px;
+}
+
+.part {
+    margin-left: 60px;
+}
+
+.getstart {
+    margin-left: 60px;
+}
+
+.titulo2 {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 70px;
+}
+
+.texto3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.boton1 {
+    margin-left: 40%;
+    height: 50px;
+    background-color: green;
+    border-radius: 8px;
+    margin-top: 20px;
+    width: 300px;
+
+}
+
+.texto4 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.boton2 {
+    background-color: black;
+    color: white;
+    width: 150px;
+}
+
+.img2 {
+    height: 500px;
+    margin-left: 20%;
+    margin-top: 20px;
+}
